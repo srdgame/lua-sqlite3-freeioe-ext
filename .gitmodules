@@ -1,0 +1,3 @@
+[submodule "lua-sqlite3"]
+	path = lua-sqlite3
+	url = https://github.com/moteus/lua-sqlite3.git
